@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593336378660",
+    "project_id": "chatapplication-84883",
+    "storage_bucket": "chatapplication-84883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593336378660:android:8ff56ffaaaacb8bc1d3fb1",
+        "android_client_info": {
+          "package_name": "com.tlz.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593336378660-16ir64gs65ce03us75c26v9em36bepjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlU_pV49sek5R69qjUrMbvO9NyGdUWUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593336378660-16ir64gs65ce03us75c26v9em36bepjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
